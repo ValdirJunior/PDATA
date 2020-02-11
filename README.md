@@ -2,8 +2,6 @@
 
 A project dedicated for create a algorithm in PYTHON for data cleaning, classification, training and testing ML solutions.
 
-```
-
 ## Built With
 
 * [Python](https://www.python.org/) - The language usead
